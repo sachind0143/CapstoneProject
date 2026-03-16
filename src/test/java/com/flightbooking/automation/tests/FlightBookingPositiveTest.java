@@ -13,25 +13,8 @@ import com.flightbooking.automation.utils.*;
 
 @Listeners(TestListener.class)
 
-public class FlightBookingTest extends BaseTest {
+public class FlightBookingPositiveTest extends BaseTest {
 
-//    @DataProvider(name = "flightData")
-//    public Object[][] flightData() {
-//
-//        return new Object[][]{
-//
-//                {"Boston","London",
-//                        "Sachin","Gautam Nagar",
-//                        "Bhopal","Madhya Pradesh","462023",
-//                        "1234567890123456","10","2028","Sachin Dhuriya"},
-//
-//                {"Paris","Rome",
-//                        "Amit","Indrapuri Sector-C",
-//                        "Bhopal","Madhya Pradesh","462021",
-//                        "9876543210123456","09","2029","Amit Kumar"}
-//
-//        };
-//    }
     @DataProvider(name="excelData")
 	public Object[][] getExcelData()throws Exception
 	{

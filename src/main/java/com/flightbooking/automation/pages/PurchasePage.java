@@ -5,6 +5,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class PurchasePage extends BasePage {
 
+
     @FindBy(id = "inputName")
     WebElement name;
 
@@ -34,7 +35,7 @@ public class PurchasePage extends BasePage {
 
     @FindBy(css = "input[type='submit']")
     WebElement purchase;
-    
+
     public void enterPassengerDetails(String n,
                                       String a,
                                       String c,

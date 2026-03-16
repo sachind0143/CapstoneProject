@@ -25,7 +25,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -39,7 +39,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-FlightBookingSuite" class="navigator-link">
-              <span class="suite-name border-passed">FlightBookingSuite</span>
+              <span class="suite-name border-failed">FlightBookingSuite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -55,7 +55,7 @@
                 </li>
                 <li>
                   <a href="#" panel-name="testlist-FlightBookingSuite" class="navigator-link ">
-                    <span class="test-stats">1 test</span>
+                    <span class="test-stats">2 tests</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -92,7 +92,26 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">2 methods,   2 passed</span>
+                    <span class="method-stats">4 methods, 2 failed,   2 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-FlightBookingSuite" class="hide-methods failed suite-FlightBookingSuite"> (hide)</a> <!-- hide-methods failed suite-FlightBookingSuite -->
+                      <a href="#" panel-name="suite-FlightBookingSuite" class="show-methods failed suite-FlightBookingSuite"> (show)</a> <!-- show-methods failed suite-FlightBookingSuite -->
+                    </span>
+                    <div class="method-list-content failed suite-FlightBookingSuite">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-FlightBookingSuite" title="com.flightbooking.automation.tests.FlightBookingNegativeTest" class="method navigator-link" hash-for-method="verifyBookingWithInvalidData(Boston, London, , , , , , 1234567890123450, 10, 2028, Ansh Gupta)">verifyBookingWithInvalidData(Boston, London, , , , , , 1234567890123450, 10, 2028, Ansh Gupta)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-FlightBookingSuite" title="com.flightbooking.automation.tests.FlightBookingNegativeTest" class="method navigator-link" hash-for-method="verifyBookingWithInvalidData(Paris, Rome, Prithvi, Saket Nagar-9A, Bhopal, Madhya Pradesh, 462025, , , , )">verifyBookingWithInvalidData(Paris, Rome, Prithvi, Saket Nagar-9A, Bhopal, Madhya Pradesh, 462025, , , , )</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-FlightBookingSuite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -103,12 +122,12 @@
                     <div class="method-list-content passed suite-FlightBookingSuite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-FlightBookingSuite" title="com.flightbooking.automation.tests.FlightBookingTest" class="method navigator-link" hash-for-method="bookFlightTest(Paris, Rome, Amit, Indrapuri Sector-C, Bhopal, Madhya Pradesh, 462021, 9876543210123450, 9, 2029, Am...)">bookFlightTest(Paris, Rome, Amit, Indrapuri Sector-C, Bhopal, Madhya Pradesh, 462021, 9876543210123450, 9, 2029, Am...)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-FlightBookingSuite" title="com.flightbooking.automation.tests.FlightBookingPositiveTest" class="method navigator-link" hash-for-method="bookFlightTest(Boston, London, , , , , , 1234567890123450, 10, 2028, Sachin Dhuriya)">bookFlightTest(Boston, London, , , , , , 1234567890123450, 10, 2028, Sachin Dhuriya)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-FlightBookingSuite" title="com.flightbooking.automation.tests.FlightBookingTest" class="method navigator-link" hash-for-method="bookFlightTest(Boston, London, Sachin, Gautam Nagar, Bhopal, Madhya Pradesh, 462023, 1234567890123450, 10, 2028, Sa...)">bookFlightTest(Boston, London, Sachin, Gautam Nagar, Bhopal, Madhya Pradesh, 462023, 1234567890123450, 10, 2028, Sa...)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-FlightBookingSuite" title="com.flightbooking.automation.tests.FlightBookingPositiveTest" class="method navigator-link" hash-for-method="bookFlightTest(Paris, Rome, Amit, Indrapuri Sector-C, Bhopal, Madhya Pradesh, 462021, 9876543210123450, 9, 2029, Am...)">bookFlightTest(Paris, Rome, Amit, Indrapuri Sector-C, Bhopal, Madhya Pradesh, 462021, 9876543210123450, 9, 2029, Am...)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-FlightBookingSuite -->
@@ -123,26 +142,68 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-FlightBookingSuite" class="panel FlightBookingSuite">
+          <div class="suite-FlightBookingSuite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.flightbooking.automation.tests.FlightBookingNegativeTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyBookingWithInvalidData(Boston, London, , , , , , 1234567890123450, 10, 2028, Ansh Gupta)">
+                  </a> <!-- verifyBookingWithInvalidData(Boston, London, , , , , , 1234567890123450, 10, 2028, Ansh Gupta) -->
+                  <span class="method-name">verifyBookingWithInvalidData</span>
+                  <span class="parameters">(Boston,London,,,,,,1234567890123450,10,2028,Ansh Gupta)</span>
+                  <div class="stack-trace">java.lang.AssertionError: Booking succeeded with invalid input expected [false] but found [true]
+	at com.flightbooking.automation.tests.FlightBookingNegativeTest.verifyBookingWithInvalidData(FlightBookingNegativeTest.java:64)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+... Removed 18 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyBookingWithInvalidData(Paris, Rome, Prithvi, Saket Nagar-9A, Bhopal, Madhya Pradesh, 462025, , , , )">
+                  </a> <!-- verifyBookingWithInvalidData(Paris, Rome, Prithvi, Saket Nagar-9A, Bhopal, Madhya Pradesh, 462025, , , , ) -->
+                  <span class="method-name">verifyBookingWithInvalidData</span>
+                  <span class="parameters">(Paris,Rome,Prithvi,Saket Nagar-9A,Bhopal,Madhya Pradesh,462025,,,,)</span>
+                  <div class="stack-trace">java.lang.AssertionError: Booking succeeded with invalid input expected [false] but found [true]
+	at com.flightbooking.automation.tests.FlightBookingNegativeTest.verifyBookingWithInvalidData(FlightBookingNegativeTest.java:64)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+... Removed 18 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-FlightBookingSuite-class-failed -->
           <div class="suite-FlightBookingSuite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">com.flightbooking.automation.tests.FlightBookingTest</span>
+              <span class="class-name">com.flightbooking.automation.tests.FlightBookingPositiveTest</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="bookFlightTest(Boston, London, , , , , , 1234567890123450, 10, 2028, Sachin Dhuriya)">
+                  </a> <!-- bookFlightTest(Boston, London, , , , , , 1234567890123450, 10, 2028, Sachin Dhuriya) -->
+                  <span class="method-name">bookFlightTest</span>
+                  <span class="parameters">(Boston,London,,,,,,1234567890123450,10,2028,Sachin Dhuriya)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
                   <a name="bookFlightTest(Paris, Rome, Amit, Indrapuri Sector-C, Bhopal, Madhya Pradesh, 462021, 9876543210123450, 9, 2029, Am...)">
                   </a> <!-- bookFlightTest(Paris, Rome, Amit, Indrapuri Sector-C, Bhopal, Madhya Pradesh, 462021, 9876543210123450, 9, 2029, Am...) -->
                   <span class="method-name">bookFlightTest</span>
                   <span class="parameters">(Paris,Rome,Amit,Indrapuri Sector-C,Bhopal,Madhya Pradesh,462021,9876543210123450,9,2029,Amit Kumar)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="bookFlightTest(Boston, London, Sachin, Gautam Nagar, Bhopal, Madhya Pradesh, 462023, 1234567890123450, 10, 2028, Sa...)">
-                  </a> <!-- bookFlightTest(Boston, London, Sachin, Gautam Nagar, Bhopal, Madhya Pradesh, 462023, 1234567890123450, 10, 2028, Sa...) -->
-                  <span class="method-name">bookFlightTest</span>
-                  <span class="parameters">(Boston,London,Sachin,Gautam Nagar,Bhopal,Madhya Pradesh,462023,1234567890123450,10,2028,Sachin Dhuriya)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -162,9 +223,14 @@
   &lt;/listeners&gt;
   &lt;test thread-count=&quot;2&quot; parallel=&quot;tests&quot; name=&quot;FlightBookingTest&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.flightbooking.automation.tests.FlightBookingTest&quot;/&gt;
+      &lt;class name=&quot;com.flightbooking.automation.tests.FlightBookingPositiveTest&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- FlightBookingTest --&gt;
+  &lt;test thread-count=&quot;2&quot; parallel=&quot;tests&quot; name=&quot;FlightBookingNegativeTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.flightbooking.automation.tests.FlightBookingNegativeTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- FlightBookingNegativeTest --&gt;
 &lt;/suite&gt; &lt;!-- FlightBookingSuite --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -177,6 +243,9 @@
             <ul>
               <li>
                 <span class="test-name">FlightBookingTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">FlightBookingNegativeTest (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -202,20 +271,28 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(2);
+data.addRows(4);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'bookFlightTest')
-data.setCell(0, 2, 'com.flightbooking.automation.tests.FlightBookingTest')
-data.setCell(0, 3, 4734);
+data.setCell(0, 1, 'verifyBookingWithInvalidData')
+data.setCell(0, 2, 'com.flightbooking.automation.tests.FlightBookingNegativeTest')
+data.setCell(0, 3, 8536);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'bookFlightTest')
-data.setCell(1, 2, 'com.flightbooking.automation.tests.FlightBookingTest')
-data.setCell(1, 3, 4341);
+data.setCell(1, 2, 'com.flightbooking.automation.tests.FlightBookingPositiveTest')
+data.setCell(1, 3, 8473);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'verifyBookingWithInvalidData')
+data.setCell(2, 2, 'com.flightbooking.automation.tests.FlightBookingNegativeTest')
+data.setCell(2, 3, 7798);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'bookFlightTest')
+data.setCell(3, 2, 'com.flightbooking.automation.tests.FlightBookingPositiveTest')
+data.setCell(3, 3, 7345);
 window.suiteTableData['FlightBookingSuite']= { tableData: data, tableDiv: 'times-div-FlightBookingSuite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 18 seconds</span>
+              <span class="suite-total-time">Total running time: 32 seconds</span>
               <div id="times-div-FlightBookingSuite">
               </div> <!-- times-div-FlightBookingSuite -->
             </div> <!-- times-div -->
@@ -241,30 +318,88 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.flightbooking.automation.tests.FlightBookingTest</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.flightbooking.automation.tests.FlightBookingNegativeTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-method before -->
-              <div class="test-method">
-                <span class="method-name">bookFlightTest(Boston, London, Sachin, Gautam Nagar, Bhopal, Madhya Pradesh, 462023, 1234567890123450, 10, 2028, Sa...)</span>
-                <span class="method-start">4323 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">9245 ms</span>
-              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.flightbooking.automation.tests.FlightBookingPositiveTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">9542 ms</span>
+                <span class="method-start">1 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.flightbooking.automation.tests.FlightBookingNegativeTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">verifyBookingWithInvalidData(Boston, London, , , , , , 1234567890123450, 10, 2028, Ansh Gupta)</span>
+                <span class="method-start">6948 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.flightbooking.automation.tests.FlightBookingPositiveTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">bookFlightTest(Boston, London, , , , , , 1234567890123450, 10, 2028, Sachin Dhuriya)</span>
+                <span class="method-start">7134 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.flightbooking.automation.tests.FlightBookingNegativeTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">15829 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.flightbooking.automation.tests.FlightBookingPositiveTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">15922 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.flightbooking.automation.tests.FlightBookingNegativeTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">16693 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.flightbooking.automation.tests.FlightBookingPositiveTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">16719 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">bookFlightTest(Paris, Rome, Amit, Indrapuri Sector-C, Bhopal, Madhya Pradesh, 462021, 9876543210123450, 9, 2029, Am...)</span>
-                <span class="method-start">12249 ms</span>
+                <span class="method-start">21194 ms</span>
               </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.flightbooking.automation.tests.FlightBookingNegativeTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">verifyBookingWithInvalidData(Paris, Rome, Prithvi, Saket Nagar-9A, Bhopal, Madhya Pradesh, 462025, , , , )</span>
+                <span class="method-start">21413 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.flightbooking.automation.tests.FlightBookingPositiveTest</div> <!-- chronological-class-name -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">16761 ms</span>
+                <span class="method-start">28768 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.flightbooking.automation.tests.FlightBookingNegativeTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">29459 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

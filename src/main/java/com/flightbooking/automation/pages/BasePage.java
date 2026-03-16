@@ -12,34 +12,38 @@ public class BasePage {
 
         PageFactory.initElements(
                 DriverManager.getDriver(), this);
+        
     }
 
     protected void click(WebElement element) {
 
         WaitUtils.waitForClickable(element);
 
-        LoggerUtils.info("Clicking button");
+        LoggerUtils.info(Thread.currentThread().getName()+" Clicking button ");
 
         element.click();
+        
     }
 
     protected void type(WebElement element, String text) {
 
         WaitUtils.waitForVisibility(element);
 
-        LoggerUtils.info("Typing text: "+text);
+        LoggerUtils.info(Thread.currentThread().getName()+" Typing text: "+text);
 
         element.clear();
         element.sendKeys(text);
+        
     }
 
     protected String getText(WebElement element) {
 
         WaitUtils.waitForVisibility(element);
 
-        LoggerUtils.info("Getting text from element");
+        LoggerUtils.info(Thread.currentThread().getName()+" Getting text from element");
 
         return element.getText();
+        
     }
 
     protected boolean isDisplayed(WebElement element) {
@@ -47,5 +51,7 @@ public class BasePage {
         WaitUtils.waitForVisibility(element);
 
         return element.isDisplayed();
+        
     }
+
 }

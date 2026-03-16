@@ -563,3 +563,1337 @@
 2026-03-14 15:09:08 INFO  Clicking button
 2026-03-14 15:09:08 INFO  Fetching booking confirmation message
 2026-03-14 15:09:08 INFO  Getting text from element
+2026-03-14 15:29:08 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-14 15:29:15 INFO  Selecting departure city: Boston
+2026-03-14 15:29:15 INFO  Selecting destination city: London
+2026-03-14 15:29:15 INFO  Clicking button
+2026-03-14 15:29:16 INFO  Clicking button
+2026-03-14 15:29:17 INFO  Typing text: Sachin
+2026-03-14 15:29:17 INFO  Typing text: Gautam Nagar
+2026-03-14 15:29:17 INFO  Typing text: Bhopal
+2026-03-14 15:29:18 INFO  Typing text: Madhya Pradesh
+2026-03-14 15:29:18 INFO  Typing text: 462023
+2026-03-14 15:29:18 INFO  Typing text: 1234567890123450
+2026-03-14 15:29:18 INFO  Typing text: 10
+2026-03-14 15:29:18 INFO  Typing text: 2028
+2026-03-14 15:29:19 INFO  Typing text: Sachin Dhuriya
+2026-03-14 15:29:19 INFO  Clicking button
+2026-03-14 15:29:19 INFO  Fetching booking confirmation message
+2026-03-14 15:29:20 INFO  Getting text from element
+2026-03-14 15:29:23 INFO  Selecting departure city: Paris
+2026-03-14 15:29:23 INFO  Selecting destination city: Rome
+2026-03-14 15:29:24 INFO  Clicking button
+2026-03-14 15:29:24 INFO  Clicking button
+2026-03-14 15:29:25 INFO  Typing text: Amit
+2026-03-14 15:29:25 INFO  Typing text: Indrapuri Sector-C
+2026-03-14 15:29:25 INFO  Typing text: Bhopal
+2026-03-14 15:29:26 INFO  Typing text: Madhya Pradesh
+2026-03-14 15:29:26 INFO  Typing text: 462021
+2026-03-14 15:29:26 INFO  Typing text: 9876543210123450
+2026-03-14 15:29:26 INFO  Typing text: 9
+2026-03-14 15:29:26 INFO  Typing text: 2029
+2026-03-14 15:29:27 INFO  Typing text: Amit Kumar
+2026-03-14 15:29:27 INFO  Clicking button
+2026-03-14 15:29:27 INFO  Fetching booking confirmation message
+2026-03-14 15:29:28 INFO  Getting text from element
+2026-03-14 15:35:00 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-14 15:35:06 INFO  Selecting departure city: Boston
+2026-03-14 15:35:06 INFO  Selecting destination city: London
+2026-03-14 15:35:07 INFO  Clicking button
+2026-03-14 15:35:07 INFO  Clicking button
+2026-03-14 15:35:08 INFO  Typing text: Sachin
+2026-03-14 15:35:08 INFO  Typing text: Gautam Nagar
+2026-03-14 15:35:08 INFO  Typing text: Bhopal
+2026-03-14 15:35:09 INFO  Typing text: Madhya Pradesh
+2026-03-14 15:35:09 INFO  Typing text: 462023
+2026-03-14 15:35:09 INFO  Typing text: 1234567890123450
+2026-03-14 15:35:09 INFO  Typing text: 10
+2026-03-14 15:35:09 INFO  Typing text: 2028
+2026-03-14 15:35:09 INFO  Typing text: Sachin Dhuriya
+2026-03-14 15:35:10 INFO  Clicking button
+2026-03-14 15:35:10 INFO  Fetching booking confirmation message
+2026-03-14 15:35:10 INFO  Getting text from element
+2026-03-14 15:35:14 INFO  Selecting departure city: Paris
+2026-03-14 15:35:14 INFO  Selecting destination city: Rome
+2026-03-14 15:35:14 INFO  Clicking button
+2026-03-14 15:35:15 INFO  Clicking button
+2026-03-14 15:35:16 INFO  Typing text: Amit
+2026-03-14 15:35:16 INFO  Typing text: Indrapuri Sector-C
+2026-03-14 15:35:16 INFO  Typing text: Bhopal
+2026-03-14 15:35:16 INFO  Typing text: Madhya Pradesh
+2026-03-14 15:35:17 INFO  Typing text: 462021
+2026-03-14 15:35:17 INFO  Typing text: 9876543210123450
+2026-03-14 15:35:17 INFO  Typing text: 9
+2026-03-14 15:35:17 INFO  Typing text: 2029
+2026-03-14 15:35:17 INFO  Typing text: Amit Kumar
+2026-03-14 15:35:18 INFO  Clicking button
+2026-03-14 15:35:18 INFO  Fetching booking confirmation message
+2026-03-14 15:35:18 INFO  Getting text from element
+2026-03-14 15:36:51 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-14 15:36:57 INFO  Selecting departure city: Boston
+2026-03-14 15:36:58 INFO  Selecting destination city: London
+2026-03-14 15:36:58 INFO  Clicking button
+2026-03-14 15:36:59 INFO  Clicking button
+2026-03-14 15:36:59 INFO  Typing text: Sachin
+2026-03-14 15:37:00 INFO  Typing text: Gautam Nagar
+2026-03-14 15:37:00 INFO  Typing text: Bhopal
+2026-03-14 15:37:00 INFO  Typing text: Madhya Pradesh
+2026-03-14 15:37:00 INFO  Typing text: 462023
+2026-03-14 15:37:01 INFO  Typing text: 1234567890123450
+2026-03-14 15:37:01 INFO  Typing text: 10
+2026-03-14 15:37:01 INFO  Typing text: 2028
+2026-03-14 15:37:01 INFO  Typing text: Sachin Dhuriya
+2026-03-14 15:37:01 INFO  Clicking button
+2026-03-14 15:37:02 INFO  Fetching booking confirmation message
+2026-03-14 15:37:02 INFO  Getting text from element
+2026-03-14 15:37:05 INFO  Selecting departure city: Paris
+2026-03-14 15:37:05 INFO  Selecting destination city: Rome
+2026-03-14 15:37:06 INFO  Clicking button
+2026-03-14 15:37:06 INFO  Clicking button
+2026-03-14 15:37:07 INFO  Typing text: Amit
+2026-03-14 15:37:07 INFO  Typing text: Indrapuri Sector-C
+2026-03-14 15:37:07 INFO  Typing text: Bhopal
+2026-03-14 15:37:08 INFO  Typing text: Madhya Pradesh
+2026-03-14 15:37:08 INFO  Typing text: 462021
+2026-03-14 15:37:08 INFO  Typing text: 9876543210123450
+2026-03-14 15:37:08 INFO  Typing text: 9
+2026-03-14 15:37:08 INFO  Typing text: 2029
+2026-03-14 15:37:09 INFO  Typing text: Amit Kumar
+2026-03-14 15:37:09 INFO  Clicking button
+2026-03-14 15:37:09 INFO  Fetching booking confirmation message
+2026-03-14 15:37:09 INFO  Getting text from element
+2026-03-14 15:41:30 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-14 15:41:36 INFO  Selecting departure city: Boston
+2026-03-14 15:41:36 INFO  Selecting destination city: London
+2026-03-14 15:41:37 INFO  Clicking button
+2026-03-14 15:41:37 INFO  Clicking button
+2026-03-14 15:41:38 INFO  Typing text: Sachin
+2026-03-14 15:41:38 INFO  Typing text: Gautam Nagar
+2026-03-14 15:41:39 INFO  Typing text: Bhopal
+2026-03-14 15:41:39 INFO  Typing text: Madhya Pradesh
+2026-03-14 15:41:39 INFO  Typing text: 462023
+2026-03-14 15:41:39 INFO  Typing text: 1234567890123450
+2026-03-14 15:41:39 INFO  Typing text: 10
+2026-03-14 15:41:39 INFO  Typing text: 2028
+2026-03-14 15:41:40 INFO  Typing text: Sachin Dhuriya
+2026-03-14 15:41:40 INFO  Clicking button
+2026-03-14 15:41:40 INFO  Fetching booking confirmation message
+2026-03-14 15:41:40 INFO  Getting text from element
+2026-03-14 15:41:44 INFO  Selecting departure city: Paris
+2026-03-14 15:41:44 INFO  Selecting destination city: Rome
+2026-03-14 15:41:44 INFO  Clicking button
+2026-03-14 15:41:45 INFO  Clicking button
+2026-03-14 15:41:46 INFO  Typing text: Amit
+2026-03-14 15:41:46 INFO  Typing text: Indrapuri Sector-C
+2026-03-14 15:41:46 INFO  Typing text: Bhopal
+2026-03-14 15:41:46 INFO  Typing text: Madhya Pradesh
+2026-03-14 15:41:46 INFO  Typing text: 462021
+2026-03-14 15:41:47 INFO  Typing text: 9876543210123450
+2026-03-14 15:41:47 INFO  Typing text: 9
+2026-03-14 15:41:47 INFO  Typing text: 2029
+2026-03-14 15:41:47 INFO  Typing text: Amit Kumar
+2026-03-14 15:41:47 INFO  Clicking button
+2026-03-14 15:41:47 INFO  Fetching booking confirmation message
+2026-03-14 15:41:48 INFO  Getting text from element
+2026-03-14 15:44:20 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-14 15:44:27 INFO  Selecting departure city: Boston
+2026-03-14 15:44:28 INFO  Selecting destination city: London
+2026-03-14 15:44:28 INFO  Clicking button
+2026-03-14 15:44:29 INFO  Clicking button
+2026-03-14 15:44:30 INFO  Typing text: Sachin
+2026-03-14 15:44:30 INFO  Typing text: Gautam Nagar
+2026-03-14 15:44:30 INFO  Typing text: Bhopal
+2026-03-14 15:44:30 INFO  Typing text: Madhya Pradesh
+2026-03-14 15:44:30 INFO  Typing text: 462023
+2026-03-14 15:44:31 INFO  Typing text: 1234567890123450
+2026-03-14 15:44:31 INFO  Typing text: 10
+2026-03-14 15:44:31 INFO  Typing text: 2028
+2026-03-14 15:44:31 INFO  Typing text: Sachin Dhuriya
+2026-03-14 15:44:31 INFO  Clicking button
+2026-03-14 15:44:32 INFO  Fetching booking confirmation message
+2026-03-14 15:44:32 INFO  Getting text from element
+2026-03-14 15:44:35 INFO  Selecting departure city: Paris
+2026-03-14 15:44:36 INFO  Selecting destination city: Rome
+2026-03-14 15:44:36 INFO  Clicking button
+2026-03-14 15:44:37 INFO  Clicking button
+2026-03-14 15:44:37 INFO  Typing text: Amit
+2026-03-14 15:44:38 INFO  Typing text: Indrapuri Sector-C
+2026-03-14 15:44:38 INFO  Typing text: Bhopal
+2026-03-14 15:44:38 INFO  Typing text: Madhya Pradesh
+2026-03-14 15:44:38 INFO  Typing text: 462021
+2026-03-14 15:44:38 INFO  Typing text: 9876543210123450
+2026-03-14 15:44:39 INFO  Typing text: 9
+2026-03-14 15:44:39 INFO  Typing text: 2029
+2026-03-14 15:44:39 INFO  Typing text: Amit Kumar
+2026-03-14 15:44:39 INFO  Clicking button
+2026-03-14 15:44:40 INFO  Fetching booking confirmation message
+2026-03-14 15:44:40 INFO  Getting text from element
+2026-03-14 15:48:07 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-14 15:48:15 INFO  Selecting departure city: Boston
+2026-03-14 15:48:16 INFO  Selecting destination city: London
+2026-03-14 15:48:16 INFO  Clicking button
+2026-03-14 15:48:17 INFO  Clicking button
+2026-03-14 15:48:17 INFO  Typing text: Sachin
+2026-03-14 15:48:18 INFO  Typing text: Gautam Nagar
+2026-03-14 15:48:18 INFO  Typing text: Bhopal
+2026-03-14 15:48:18 INFO  Typing text: Madhya Pradesh
+2026-03-14 15:48:18 INFO  Typing text: 462023
+2026-03-14 15:48:19 INFO  Typing text: 1234567890123450
+2026-03-14 15:48:19 INFO  Typing text: 10
+2026-03-14 15:48:19 INFO  Typing text: 2028
+2026-03-14 15:48:19 INFO  Typing text: Sachin Dhuriya
+2026-03-14 15:48:19 INFO  Clicking button
+2026-03-14 15:48:20 INFO  Fetching booking confirmation message
+2026-03-14 15:48:20 INFO  Getting text from element
+2026-03-14 15:48:23 INFO  Selecting departure city: Paris
+2026-03-14 15:48:23 INFO  Selecting destination city: Rome
+2026-03-14 15:48:23 INFO  Clicking button
+2026-03-14 15:48:24 INFO  Clicking button
+2026-03-14 15:48:25 INFO  Typing text: Amit
+2026-03-14 15:48:25 INFO  Typing text: Indrapuri Sector-C
+2026-03-14 15:48:25 INFO  Typing text: Bhopal
+2026-03-14 15:48:26 INFO  Typing text: Madhya Pradesh
+2026-03-14 15:48:26 INFO  Typing text: 462021
+2026-03-14 15:48:26 INFO  Typing text: 9876543210123450
+2026-03-14 15:48:26 INFO  Typing text: 9
+2026-03-14 15:48:26 INFO  Typing text: 2029
+2026-03-14 15:48:27 INFO  Typing text: Amit Kumar
+2026-03-14 15:48:27 INFO  Clicking button
+2026-03-14 15:48:27 INFO  Fetching booking confirmation message
+2026-03-14 15:48:27 INFO  Getting text from element
+2026-03-15 21:11:14 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-15 21:11:28 INFO  Selecting departure city: Boston
+2026-03-15 21:11:29 INFO  Selecting departure city: Boston
+2026-03-15 21:11:30 INFO  Selecting destination city: London
+2026-03-15 21:11:30 INFO  Selecting destination city: London
+2026-03-15 21:11:30 INFO  Clicking button
+2026-03-15 21:11:30 INFO  Clicking button
+2026-03-15 21:11:32 INFO  Clicking button
+2026-03-15 21:11:32 INFO  Clicking button
+2026-03-15 21:11:32 INFO  Typing text: 
+2026-03-15 21:11:32 INFO  Typing text: 
+2026-03-15 21:11:33 INFO  Typing text: 
+2026-03-15 21:11:33 INFO  Typing text: 
+2026-03-15 21:11:33 INFO  Typing text: 
+2026-03-15 21:11:33 INFO  Typing text: 
+2026-03-15 21:11:34 INFO  Typing text: 
+2026-03-15 21:11:34 INFO  Typing text: 
+2026-03-15 21:11:34 INFO  Typing text: 
+2026-03-15 21:11:34 INFO  Typing text: 
+2026-03-15 21:11:34 INFO  Typing text: 1234567890123450
+2026-03-15 21:11:34 INFO  Typing text: 1234567890123450
+2026-03-15 21:11:35 INFO  Typing text: 10
+2026-03-15 21:11:35 INFO  Typing text: 10
+2026-03-15 21:11:35 INFO  Typing text: 2028
+2026-03-15 21:11:35 INFO  Typing text: 2028
+2026-03-15 21:11:35 INFO  Typing text: Sachin Dhuriya
+2026-03-15 21:11:35 INFO  Typing text: Sachin Dhuriya
+2026-03-15 21:11:36 INFO  Clicking button
+2026-03-15 21:11:36 INFO  Clicking button
+2026-03-15 21:11:36 INFO  Fetching booking confirmation message
+2026-03-15 21:11:36 INFO  Fetching booking confirmation message
+2026-03-15 21:11:37 INFO  Getting text from element
+2026-03-15 21:11:37 INFO  Getting text from element
+2026-03-15 21:11:43 INFO  Selecting departure city: Boston
+2026-03-15 21:11:43 INFO  Selecting departure city: Paris
+2026-03-15 21:11:43 INFO  Selecting destination city: Rome
+2026-03-15 21:11:43 INFO  Selecting destination city: London
+2026-03-15 21:11:44 INFO  Clicking button
+2026-03-15 21:11:44 INFO  Clicking button
+2026-03-15 21:11:45 INFO  Clicking button
+2026-03-15 21:11:45 INFO  Clicking button
+2026-03-15 21:11:46 INFO  Typing text: 
+2026-03-15 21:11:46 INFO  Typing text: Amit
+2026-03-15 21:11:46 INFO  Typing text: 
+2026-03-15 21:11:46 INFO  Typing text: Indrapuri Sector-C
+2026-03-15 21:11:46 INFO  Typing text: 
+2026-03-15 21:11:47 INFO  Typing text: 
+2026-03-15 21:11:47 INFO  Typing text: Bhopal
+2026-03-15 21:11:47 INFO  Typing text: 
+2026-03-15 21:11:47 INFO  Typing text: Madhya Pradesh
+2026-03-15 21:11:47 INFO  Typing text: 1234567890123450
+2026-03-15 21:11:47 INFO  Typing text: 462021
+2026-03-15 21:11:48 INFO  Typing text: 10
+2026-03-15 21:11:48 INFO  Typing text: 9876543210123450
+2026-03-15 21:11:48 INFO  Typing text: 2028
+2026-03-15 21:11:48 INFO  Typing text: 9
+2026-03-15 21:11:48 INFO  Typing text: Sachin Dhuriya
+2026-03-15 21:11:49 INFO  Typing text: 2029
+2026-03-15 21:11:49 INFO  Clicking button
+2026-03-15 21:11:49 INFO  Typing text: Amit Kumar
+2026-03-15 21:11:49 INFO  Clicking button
+2026-03-15 21:11:49 INFO  Fetching booking confirmation message
+2026-03-15 21:11:49 INFO  Getting text from element
+2026-03-15 21:11:50 INFO  Fetching booking confirmation message
+2026-03-15 21:11:50 INFO  Getting text from element
+2026-03-15 21:11:53 INFO  Selecting departure city: Boston
+2026-03-15 21:11:54 INFO  Selecting destination city: London
+2026-03-15 21:11:55 INFO  Clicking button
+2026-03-15 21:11:56 INFO  Clicking button
+2026-03-15 21:11:57 INFO  Typing text: 
+2026-03-15 21:11:57 INFO  Typing text: 
+2026-03-15 21:11:57 INFO  Typing text: 
+2026-03-15 21:11:58 INFO  Typing text: 
+2026-03-15 21:11:58 INFO  Typing text: 
+2026-03-15 21:11:58 INFO  Typing text: 1234567890123450
+2026-03-15 21:11:59 INFO  Typing text: 10
+2026-03-15 21:11:59 INFO  Typing text: 2028
+2026-03-15 21:11:59 INFO  Typing text: Sachin Dhuriya
+2026-03-15 21:11:59 INFO  Clicking button
+2026-03-15 21:12:00 INFO  Fetching booking confirmation message
+2026-03-15 21:12:00 INFO  Getting text from element
+2026-03-15 21:12:04 INFO  Selecting departure city: Paris
+2026-03-15 21:12:04 INFO  Selecting destination city: Rome
+2026-03-15 21:12:04 INFO  Clicking button
+2026-03-15 21:12:05 INFO  Clicking button
+2026-03-15 21:12:06 INFO  Typing text: Amit
+2026-03-15 21:12:06 INFO  Typing text: Indrapuri Sector-C
+2026-03-15 21:12:07 INFO  Typing text: Bhopal
+2026-03-15 21:12:07 INFO  Typing text: Madhya Pradesh
+2026-03-15 21:12:08 INFO  Typing text: 462021
+2026-03-15 21:12:08 INFO  Typing text: 
+2026-03-15 21:12:08 INFO  Typing text: 
+2026-03-15 21:12:08 INFO  Typing text: 
+2026-03-15 21:12:09 INFO  Typing text: 
+2026-03-15 21:12:09 INFO  Clicking button
+2026-03-15 21:12:10 INFO  Fetching booking confirmation message
+2026-03-15 21:12:10 INFO  Getting text from element
+2026-03-15 21:12:13 INFO  Selecting departure city: Paris
+2026-03-15 21:12:13 INFO  Selecting destination city: Rome
+2026-03-15 21:12:14 INFO  Clicking button
+2026-03-15 21:12:15 INFO  Clicking button
+2026-03-15 21:12:16 INFO  Typing text: Amit
+2026-03-15 21:12:16 INFO  Typing text: Indrapuri Sector-C
+2026-03-15 21:12:16 INFO  Typing text: Bhopal
+2026-03-15 21:12:17 INFO  Typing text: Madhya Pradesh
+2026-03-15 21:12:17 INFO  Typing text: 462021
+2026-03-15 21:12:17 INFO  Typing text: 
+2026-03-15 21:12:18 INFO  Typing text: 
+2026-03-15 21:12:18 INFO  Typing text: 
+2026-03-15 21:12:18 INFO  Typing text: 
+2026-03-15 21:12:18 INFO  Clicking button
+2026-03-15 21:12:19 INFO  Fetching booking confirmation message
+2026-03-15 21:12:19 INFO  Getting text from element
+2026-03-15 21:12:23 INFO  Selecting departure city: Paris
+2026-03-15 21:12:23 INFO  Selecting destination city: Rome
+2026-03-15 21:12:24 INFO  Clicking button
+2026-03-15 21:12:25 INFO  Clicking button
+2026-03-15 21:12:26 INFO  Typing text: Amit
+2026-03-15 21:12:26 INFO  Typing text: Indrapuri Sector-C
+2026-03-15 21:12:26 INFO  Typing text: Bhopal
+2026-03-15 21:12:27 INFO  Typing text: Madhya Pradesh
+2026-03-15 21:12:27 INFO  Typing text: 462021
+2026-03-15 21:12:27 INFO  Typing text: 
+2026-03-15 21:12:28 INFO  Typing text: 
+2026-03-15 21:12:28 INFO  Typing text: 
+2026-03-15 21:12:28 INFO  Typing text: 
+2026-03-15 21:12:29 INFO  Clicking button
+2026-03-15 21:12:29 INFO  Fetching booking confirmation message
+2026-03-15 21:12:29 INFO  Getting text from element
+2026-03-16 00:04:20 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 00:05:02 INFO  Selecting departure city: Boston
+2026-03-16 00:05:03 INFO  Selecting departure city: Boston
+2026-03-16 00:05:04 INFO  Selecting destination city: London
+2026-03-16 00:05:05 INFO  Clicking button
+2026-03-16 00:05:08 INFO  Clicking button
+2026-03-16 00:05:09 INFO  Selecting destination city: London
+2026-03-16 00:05:09 INFO  Typing text: 
+2026-03-16 00:05:09 INFO  Typing text: 
+2026-03-16 00:05:09 INFO  Clicking button
+2026-03-16 00:05:10 INFO  Typing text: 
+2026-03-16 00:05:10 INFO  Typing text: 
+2026-03-16 00:05:11 INFO  Typing text: 
+2026-03-16 00:05:11 INFO  Clicking button
+2026-03-16 00:05:11 INFO  Typing text: 1234567890123450
+2026-03-16 00:05:12 INFO  Typing text: 10
+2026-03-16 00:05:12 INFO  Typing text: 
+2026-03-16 00:05:12 INFO  Typing text: 2028
+2026-03-16 00:05:13 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:05:13 INFO  Typing text: 
+2026-03-16 00:05:13 INFO  Typing text: 
+2026-03-16 00:05:13 INFO  Clicking button
+2026-03-16 00:05:13 INFO  Typing text: 
+2026-03-16 00:05:14 INFO  Typing text: 
+2026-03-16 00:05:14 INFO  Typing text: 1234567890123450
+2026-03-16 00:05:14 INFO  Typing text: 10
+2026-03-16 00:05:15 INFO  Typing text: 2028
+2026-03-16 00:05:15 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:05:15 INFO  Clicking button
+2026-03-16 00:05:16 INFO  Fetching booking confirmation message
+2026-03-16 00:05:16 INFO  Getting text from element
+2026-03-16 00:05:22 INFO  Selecting departure city: Paris
+2026-03-16 00:05:22 INFO  Selecting destination city: Rome
+2026-03-16 00:05:23 INFO  Clicking button
+2026-03-16 00:05:24 INFO  Clicking button
+2026-03-16 00:05:25 INFO  Typing text: Amit
+2026-03-16 00:05:25 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:05:26 INFO  Typing text: Bhopal
+2026-03-16 00:05:26 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:05:26 INFO  Typing text: 462021
+2026-03-16 00:05:27 INFO  Typing text: 9876543210123450
+2026-03-16 00:05:27 INFO  Typing text: 9
+2026-03-16 00:05:27 INFO  Typing text: 2029
+2026-03-16 00:05:28 INFO  Typing text: Amit Kumar
+2026-03-16 00:05:28 INFO  Clicking button
+2026-03-16 00:05:28 INFO  Fetching booking confirmation message
+2026-03-16 00:05:29 INFO  Getting text from element
+2026-03-16 00:05:35 INFO  Selecting departure city: Boston
+2026-03-16 00:05:36 INFO  Selecting destination city: London
+2026-03-16 00:05:36 INFO  Clicking button
+2026-03-16 00:05:38 INFO  Clicking button
+2026-03-16 00:05:39 INFO  Typing text: 
+2026-03-16 00:05:39 INFO  Typing text: 
+2026-03-16 00:05:39 INFO  Typing text: 
+2026-03-16 00:05:40 INFO  Typing text: 
+2026-03-16 00:05:40 INFO  Typing text: 
+2026-03-16 00:05:40 INFO  Typing text: 1234567890123450
+2026-03-16 00:05:40 INFO  Typing text: 10
+2026-03-16 00:05:41 INFO  Typing text: 2028
+2026-03-16 00:05:41 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:05:41 INFO  Clicking button
+2026-03-16 00:05:57 INFO  Selecting departure city: Boston
+2026-03-16 00:05:58 INFO  Selecting destination city: London
+2026-03-16 00:05:58 INFO  Clicking button
+2026-03-16 00:05:59 INFO  Clicking button
+2026-03-16 00:06:01 INFO  Typing text: 
+2026-03-16 00:06:01 INFO  Typing text: 
+2026-03-16 00:06:01 INFO  Typing text: 
+2026-03-16 00:06:02 INFO  Typing text: 
+2026-03-16 00:06:02 INFO  Typing text: 
+2026-03-16 00:06:02 INFO  Typing text: 1234567890123450
+2026-03-16 00:06:03 INFO  Typing text: 10
+2026-03-16 00:06:03 INFO  Typing text: 2028
+2026-03-16 00:06:03 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:06:04 INFO  Clicking button
+2026-03-16 00:06:21 INFO  Selecting departure city: Paris
+2026-03-16 00:06:21 INFO  Selecting destination city: Rome
+2026-03-16 00:06:22 INFO  Clicking button
+2026-03-16 00:06:23 INFO  Clicking button
+2026-03-16 00:06:25 INFO  Typing text: Amit
+2026-03-16 00:06:25 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:06:25 INFO  Typing text: Bhopal
+2026-03-16 00:06:26 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:06:26 INFO  Typing text: 462021
+2026-03-16 00:06:26 INFO  Typing text: 
+2026-03-16 00:06:27 INFO  Typing text: 
+2026-03-16 00:06:27 INFO  Typing text: 
+2026-03-16 00:06:27 INFO  Typing text: 
+2026-03-16 00:06:28 INFO  Clicking button
+2026-03-16 00:06:43 INFO  Selecting departure city: Paris
+2026-03-16 00:06:43 INFO  Selecting destination city: Rome
+2026-03-16 00:06:44 INFO  Clicking button
+2026-03-16 00:06:45 INFO  Clicking button
+2026-03-16 00:06:45 INFO  Typing text: Amit
+2026-03-16 00:06:46 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:06:46 INFO  Typing text: Bhopal
+2026-03-16 00:06:46 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:06:47 INFO  Typing text: 462021
+2026-03-16 00:06:47 INFO  Typing text: 
+2026-03-16 00:06:47 INFO  Typing text: 
+2026-03-16 00:06:48 INFO  Typing text: 
+2026-03-16 00:06:48 INFO  Typing text: 
+2026-03-16 00:06:48 INFO  Clicking button
+2026-03-16 00:07:03 INFO  Selecting departure city: Paris
+2026-03-16 00:07:03 INFO  Selecting destination city: Rome
+2026-03-16 00:07:04 INFO  Clicking button
+2026-03-16 00:07:06 INFO  Clicking button
+2026-03-16 00:07:07 INFO  Typing text: Amit
+2026-03-16 00:07:07 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:07:08 INFO  Typing text: Bhopal
+2026-03-16 00:07:08 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:07:08 INFO  Typing text: 462021
+2026-03-16 00:07:09 INFO  Typing text: 
+2026-03-16 00:07:09 INFO  Typing text: 
+2026-03-16 00:07:09 INFO  Typing text: 
+2026-03-16 00:07:09 INFO  Typing text: 
+2026-03-16 00:07:10 INFO  Clicking button
+2026-03-16 00:09:42 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 00:09:52 INFO  Selecting departure city: Boston
+2026-03-16 00:09:52 INFO  Selecting departure city: Boston
+2026-03-16 00:09:53 INFO  Selecting destination city: London
+2026-03-16 00:09:53 INFO  Selecting destination city: London
+2026-03-16 00:09:54 INFO  Clicking button
+2026-03-16 00:09:54 INFO  Clicking button
+2026-03-16 00:09:55 INFO  Clicking button
+2026-03-16 00:09:56 INFO  Typing text: 
+2026-03-16 00:09:56 INFO  Typing text: 
+2026-03-16 00:09:57 INFO  Typing text: 
+2026-03-16 00:09:57 INFO  Typing text: 
+2026-03-16 00:09:57 INFO  Typing text: 
+2026-03-16 00:09:58 INFO  Typing text: 1234567890123450
+2026-03-16 00:09:58 INFO  Typing text: 10
+2026-03-16 00:09:58 INFO  Typing text: 2028
+2026-03-16 00:09:59 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:09:59 INFO  Clicking button
+2026-03-16 00:09:59 INFO  Clicking button
+2026-03-16 00:10:02 INFO  Typing text: 
+2026-03-16 00:10:02 INFO  Typing text: 
+2026-03-16 00:10:03 INFO  Typing text: 
+2026-03-16 00:10:03 INFO  Typing text: 
+2026-03-16 00:10:03 INFO  Typing text: 
+2026-03-16 00:10:04 INFO  Typing text: 1234567890123450
+2026-03-16 00:10:05 INFO  Typing text: 10
+2026-03-16 00:10:07 INFO  Typing text: 2028
+2026-03-16 00:10:07 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:10:08 INFO  Clicking button
+2026-03-16 00:10:09 INFO  Fetching booking confirmation message
+2026-03-16 00:10:09 INFO  Getting text from element
+2026-03-16 00:10:13 INFO  Selecting departure city: Paris
+2026-03-16 00:10:15 INFO  Selecting departure city: Paris
+2026-03-16 00:10:15 INFO  Selecting destination city: Rome
+2026-03-16 00:10:16 INFO  Clicking button
+2026-03-16 00:10:17 INFO  Clicking button
+2026-03-16 00:10:18 INFO  Typing text: Amit
+2026-03-16 00:10:18 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:10:19 INFO  Typing text: Bhopal
+2026-03-16 00:10:19 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:10:19 INFO  Typing text: 462021
+2026-03-16 00:10:20 INFO  Typing text: 9876543210123450
+2026-03-16 00:10:20 INFO  Typing text: 9
+2026-03-16 00:10:20 INFO  Typing text: 2029
+2026-03-16 00:10:20 INFO  Typing text: Amit Kumar
+2026-03-16 00:10:21 INFO  Clicking button
+2026-03-16 00:10:22 INFO  Selecting destination city: Rome
+2026-03-16 00:10:23 INFO  Clicking button
+2026-03-16 00:10:23 INFO  Fetching booking confirmation message
+2026-03-16 00:10:23 INFO  Getting text from element
+2026-03-16 00:10:24 INFO  Clicking button
+2026-03-16 00:10:25 INFO  Typing text: Amit
+2026-03-16 00:10:25 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:10:25 INFO  Typing text: Bhopal
+2026-03-16 00:10:26 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:10:26 INFO  Typing text: 462021
+2026-03-16 00:10:26 INFO  Typing text: 
+2026-03-16 00:10:27 INFO  Typing text: 
+2026-03-16 00:10:27 INFO  Typing text: 
+2026-03-16 00:10:27 INFO  Typing text: 
+2026-03-16 00:10:28 INFO  Clicking button
+2026-03-16 00:38:18 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 00:38:29 INFO  Selecting departure city: Boston
+2026-03-16 00:38:30 INFO  Selecting destination city: London
+2026-03-16 00:38:30 INFO  Clicking button
+2026-03-16 00:38:31 INFO  Clicking button
+2026-03-16 00:38:32 INFO  Typing text: 
+2026-03-16 00:38:32 INFO  Typing text: 
+2026-03-16 00:38:32 INFO  Typing text: 
+2026-03-16 00:38:32 INFO  Typing text: 
+2026-03-16 00:38:33 INFO  Typing text: 
+2026-03-16 00:38:33 INFO  Typing text: 1234567890123450
+2026-03-16 00:38:33 INFO  Typing text: 10
+2026-03-16 00:38:33 INFO  Typing text: 2028
+2026-03-16 00:38:33 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:38:34 INFO  Clicking button
+2026-03-16 00:38:34 INFO  Selecting departure city: Boston
+2026-03-16 00:38:34 INFO  Selecting destination city: London
+2026-03-16 00:38:35 INFO  Clicking button
+2026-03-16 00:38:36 INFO  Clicking button
+2026-03-16 00:38:37 INFO  Typing text: 
+2026-03-16 00:38:37 INFO  Typing text: 
+2026-03-16 00:38:37 INFO  Typing text: 
+2026-03-16 00:38:37 INFO  Typing text: 
+2026-03-16 00:38:37 INFO  Typing text: 
+2026-03-16 00:38:37 INFO  Typing text: 1234567890123450
+2026-03-16 00:38:38 INFO  Typing text: 10
+2026-03-16 00:38:38 INFO  Typing text: 2028
+2026-03-16 00:38:38 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:38:38 INFO  Clicking button
+2026-03-16 00:38:38 INFO  Fetching booking confirmation message
+2026-03-16 00:38:39 INFO  Getting text from element
+2026-03-16 00:38:46 INFO  Selecting departure city: Paris
+2026-03-16 00:38:47 INFO  Selecting destination city: Rome
+2026-03-16 00:38:47 INFO  Clicking button
+2026-03-16 00:38:53 INFO  Clicking button
+2026-03-16 00:38:54 INFO  Typing text: Amit
+2026-03-16 00:38:55 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:38:55 INFO  Typing text: Bhopal
+2026-03-16 00:38:55 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:38:57 INFO  Typing text: 462021
+2026-03-16 00:38:57 INFO  Typing text: 9876543210123450
+2026-03-16 00:38:58 INFO  Typing text: 9
+2026-03-16 00:38:58 INFO  Typing text: 2029
+2026-03-16 00:38:58 INFO  Typing text: Amit Kumar
+2026-03-16 00:38:58 INFO  Clicking button
+2026-03-16 00:38:59 INFO  Fetching booking confirmation message
+2026-03-16 00:38:59 INFO  Getting text from element
+2026-03-16 00:39:00 INFO  Selecting departure city: Paris
+2026-03-16 00:39:00 INFO  Selecting destination city: Rome
+2026-03-16 00:39:01 INFO  Clicking button
+2026-03-16 00:39:02 INFO  Clicking button
+2026-03-16 00:39:03 INFO  Typing text: Amit
+2026-03-16 00:39:03 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:39:04 INFO  Typing text: Bhopal
+2026-03-16 00:39:04 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:39:04 INFO  Typing text: 462021
+2026-03-16 00:39:04 INFO  Typing text: 
+2026-03-16 00:39:04 INFO  Typing text: 
+2026-03-16 00:39:05 INFO  Typing text: 
+2026-03-16 00:39:05 INFO  Typing text: 
+2026-03-16 00:39:05 INFO  Clicking button
+2026-03-16 00:45:22 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 00:45:30 INFO  Selecting departure city: Boston
+2026-03-16 00:45:30 INFO  Selecting destination city: London
+2026-03-16 00:45:30 INFO  Selecting departure city: Boston
+2026-03-16 00:45:30 INFO  Clicking button
+2026-03-16 00:45:31 INFO  Selecting destination city: London
+2026-03-16 00:45:31 INFO  Clicking button
+2026-03-16 00:45:31 INFO  Clicking button
+2026-03-16 00:45:32 INFO  Clicking button
+2026-03-16 00:45:32 INFO  Typing text: 
+2026-03-16 00:45:32 INFO  Typing text: 
+2026-03-16 00:45:33 INFO  Typing text: 
+2026-03-16 00:45:33 INFO  Typing text: 
+2026-03-16 00:45:33 INFO  Typing text: 
+2026-03-16 00:45:33 INFO  Typing text: 
+2026-03-16 00:45:33 INFO  Typing text: 
+2026-03-16 00:45:33 INFO  Typing text: 
+2026-03-16 00:45:33 INFO  Typing text: 1234567890123450
+2026-03-16 00:45:34 INFO  Typing text: 
+2026-03-16 00:45:34 INFO  Typing text: 10
+2026-03-16 00:45:34 INFO  Typing text: 
+2026-03-16 00:45:34 INFO  Typing text: 2028
+2026-03-16 00:45:34 INFO  Typing text: 1234567890123450
+2026-03-16 00:45:34 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:45:34 INFO  Typing text: 10
+2026-03-16 00:45:35 INFO  Clicking button
+2026-03-16 00:45:35 INFO  Typing text: 2028
+2026-03-16 00:45:35 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:45:35 INFO  Clicking button
+2026-03-16 00:45:35 INFO  Fetching booking confirmation message
+2026-03-16 00:45:35 INFO  Getting text from element
+2026-03-16 00:45:36 INFO  Fetching booking confirmation message
+2026-03-16 00:45:36 INFO  Getting text from element
+2026-03-16 00:45:41 INFO  Selecting departure city: Boston
+2026-03-16 00:45:41 INFO  Selecting departure city: Paris
+2026-03-16 00:45:41 INFO  Selecting destination city: London
+2026-03-16 00:45:41 INFO  Selecting destination city: Rome
+2026-03-16 00:45:41 INFO  Clicking button
+2026-03-16 00:45:41 INFO  Clicking button
+2026-03-16 00:45:42 INFO  Clicking button
+2026-03-16 00:45:43 INFO  Clicking button
+2026-03-16 00:45:43 INFO  Typing text: Amit
+2026-03-16 00:45:43 INFO  Typing text: 
+2026-03-16 00:45:44 INFO  Typing text: 
+2026-03-16 00:45:44 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:45:44 INFO  Typing text: 
+2026-03-16 00:45:44 INFO  Typing text: Bhopal
+2026-03-16 00:45:44 INFO  Typing text: 
+2026-03-16 00:45:44 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:45:44 INFO  Typing text: 
+2026-03-16 00:45:44 INFO  Typing text: 462021
+2026-03-16 00:45:45 INFO  Typing text: 1234567890123450
+2026-03-16 00:45:45 INFO  Typing text: 9876543210123450
+2026-03-16 00:45:45 INFO  Typing text: 10
+2026-03-16 00:45:45 INFO  Typing text: 9
+2026-03-16 00:45:45 INFO  Typing text: 2028
+2026-03-16 00:45:45 INFO  Typing text: 2029
+2026-03-16 00:45:45 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:45:45 INFO  Typing text: Amit Kumar
+2026-03-16 00:45:46 INFO  Clicking button
+2026-03-16 00:45:46 INFO  Clicking button
+2026-03-16 00:45:46 INFO  Fetching booking confirmation message
+2026-03-16 00:45:46 INFO  Fetching booking confirmation message
+2026-03-16 00:45:46 INFO  Getting text from element
+2026-03-16 00:45:46 INFO  Getting text from element
+2026-03-16 00:45:56 INFO  Selecting departure city: Boston
+2026-03-16 00:45:56 INFO  Selecting destination city: London
+2026-03-16 00:45:57 INFO  Clicking button
+2026-03-16 00:45:58 INFO  Clicking button
+2026-03-16 00:45:58 INFO  Typing text: 
+2026-03-16 00:45:58 INFO  Typing text: 
+2026-03-16 00:45:59 INFO  Typing text: 
+2026-03-16 00:45:59 INFO  Typing text: 
+2026-03-16 00:45:59 INFO  Typing text: 
+2026-03-16 00:45:59 INFO  Typing text: 1234567890123450
+2026-03-16 00:45:59 INFO  Typing text: 10
+2026-03-16 00:45:59 INFO  Typing text: 2028
+2026-03-16 00:45:59 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:46:00 INFO  Clicking button
+2026-03-16 00:46:00 INFO  Fetching booking confirmation message
+2026-03-16 00:46:00 INFO  Getting text from element
+2026-03-16 00:46:04 INFO  Selecting departure city: Paris
+2026-03-16 00:46:04 INFO  Selecting destination city: Rome
+2026-03-16 00:46:04 INFO  Clicking button
+2026-03-16 00:46:05 INFO  Clicking button
+2026-03-16 00:46:06 INFO  Typing text: Amit
+2026-03-16 00:46:06 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:46:06 INFO  Typing text: Bhopal
+2026-03-16 00:46:06 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:46:07 INFO  Typing text: 462021
+2026-03-16 00:46:07 INFO  Typing text: 
+2026-03-16 00:46:07 INFO  Typing text: 
+2026-03-16 00:46:07 INFO  Typing text: 
+2026-03-16 00:46:07 INFO  Typing text: 
+2026-03-16 00:46:08 INFO  Clicking button
+2026-03-16 00:46:08 INFO  Fetching booking confirmation message
+2026-03-16 00:46:08 INFO  Getting text from element
+2026-03-16 00:46:11 INFO  Selecting departure city: Paris
+2026-03-16 00:46:11 INFO  Selecting destination city: Rome
+2026-03-16 00:46:12 INFO  Clicking button
+2026-03-16 00:46:13 INFO  Clicking button
+2026-03-16 00:46:13 INFO  Typing text: Amit
+2026-03-16 00:46:13 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:46:14 INFO  Typing text: Bhopal
+2026-03-16 00:46:14 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:46:14 INFO  Typing text: 462021
+2026-03-16 00:46:14 INFO  Typing text: 
+2026-03-16 00:46:14 INFO  Typing text: 
+2026-03-16 00:46:15 INFO  Typing text: 
+2026-03-16 00:46:15 INFO  Typing text: 
+2026-03-16 00:46:15 INFO  Clicking button
+2026-03-16 00:46:15 INFO  Fetching booking confirmation message
+2026-03-16 00:46:15 INFO  Getting text from element
+2026-03-16 00:46:19 INFO  Selecting departure city: Paris
+2026-03-16 00:46:19 INFO  Selecting destination city: Rome
+2026-03-16 00:46:19 INFO  Clicking button
+2026-03-16 00:46:20 INFO  Clicking button
+2026-03-16 00:46:21 INFO  Typing text: Amit
+2026-03-16 00:46:21 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:46:21 INFO  Typing text: Bhopal
+2026-03-16 00:46:21 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:46:22 INFO  Typing text: 462021
+2026-03-16 00:46:22 INFO  Typing text: 
+2026-03-16 00:46:22 INFO  Typing text: 
+2026-03-16 00:46:22 INFO  Typing text: 
+2026-03-16 00:46:22 INFO  Typing text: 
+2026-03-16 00:46:22 INFO  Clicking button
+2026-03-16 00:46:23 INFO  Fetching booking confirmation message
+2026-03-16 00:46:23 INFO  Getting text from element
+2026-03-16 00:47:37 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 00:47:44 INFO  Selecting departure city: Boston
+2026-03-16 00:47:44 INFO  Selecting destination city: London
+2026-03-16 00:47:45 INFO  Clicking button
+2026-03-16 00:47:45 INFO  Clicking button
+2026-03-16 00:47:51 INFO  Selecting departure city: Boston
+2026-03-16 00:47:51 INFO  Selecting destination city: London
+2026-03-16 00:47:51 INFO  Clicking button
+2026-03-16 00:47:52 INFO  Clicking button
+2026-03-16 00:47:53 INFO  Typing text: 
+2026-03-16 00:47:53 INFO  Typing text: 
+2026-03-16 00:47:53 INFO  Typing text: 
+2026-03-16 00:47:54 INFO  Typing text: 
+2026-03-16 00:47:54 INFO  Typing text: 
+2026-03-16 00:47:54 INFO  Typing text: 
+2026-03-16 00:47:54 INFO  Typing text: 
+2026-03-16 00:47:54 INFO  Typing text: 1234567890123450
+2026-03-16 00:47:54 INFO  Typing text: 
+2026-03-16 00:47:54 INFO  Typing text: 
+2026-03-16 00:47:55 INFO  Typing text: 10
+2026-03-16 00:47:55 INFO  Typing text: 
+2026-03-16 00:47:55 INFO  Typing text: 2028
+2026-03-16 00:47:55 INFO  Typing text: 1234567890123450
+2026-03-16 00:47:55 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:47:55 INFO  Typing text: 10
+2026-03-16 00:47:56 INFO  Clicking button
+2026-03-16 00:47:56 INFO  Typing text: 2028
+2026-03-16 00:47:56 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:47:56 INFO  Clicking button
+2026-03-16 00:47:57 INFO  Fetching booking confirmation message
+2026-03-16 00:47:57 INFO  Getting text from element
+2026-03-16 00:47:57 INFO  Fetching booking confirmation message
+2026-03-16 00:47:57 INFO  Getting text from element
+2026-03-16 00:48:03 INFO  Selecting departure city: Paris
+2026-03-16 00:48:03 INFO  Selecting destination city: Rome
+2026-03-16 00:48:03 INFO  Clicking button
+2026-03-16 00:48:04 INFO  Clicking button
+2026-03-16 00:48:05 INFO  Typing text: Amit
+2026-03-16 00:48:05 INFO  Selecting departure city: Paris
+2026-03-16 00:48:05 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:48:06 INFO  Typing text: Bhopal
+2026-03-16 00:48:06 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:48:06 INFO  Typing text: 462021
+2026-03-16 00:48:06 INFO  Typing text: 
+2026-03-16 00:48:06 INFO  Selecting destination city: Rome
+2026-03-16 00:48:06 INFO  Typing text: 
+2026-03-16 00:48:07 INFO  Typing text: 
+2026-03-16 00:48:07 INFO  Clicking button
+2026-03-16 00:48:07 INFO  Typing text: 
+2026-03-16 00:48:07 INFO  Clicking button
+2026-03-16 00:48:08 INFO  Fetching booking confirmation message
+2026-03-16 00:48:08 INFO  Getting text from element
+2026-03-16 00:48:08 INFO  Clicking button
+2026-03-16 00:48:09 INFO  Typing text: Amit
+2026-03-16 00:48:09 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:48:10 INFO  Typing text: Bhopal
+2026-03-16 00:48:10 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:48:10 INFO  Typing text: 462021
+2026-03-16 00:48:10 INFO  Typing text: 9876543210123450
+2026-03-16 00:48:10 INFO  Typing text: 9
+2026-03-16 00:48:11 INFO  Typing text: 2029
+2026-03-16 00:48:11 INFO  Typing text: Amit Kumar
+2026-03-16 00:48:11 INFO  Clicking button
+2026-03-16 00:48:12 INFO  Fetching booking confirmation message
+2026-03-16 00:48:12 INFO  Getting text from element
+2026-03-16 00:58:22 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 00:58:29 INFO  Selecting departure city: Boston
+2026-03-16 00:58:30 INFO  Selecting destination city: London
+2026-03-16 00:58:30 INFO  Clicking button
+2026-03-16 00:58:31 INFO  Clicking button
+2026-03-16 00:58:32 INFO  Typing text: 
+2026-03-16 00:58:32 INFO  Typing text: 
+2026-03-16 00:58:32 INFO  Typing text: 
+2026-03-16 00:58:32 INFO  Typing text: 
+2026-03-16 00:58:32 INFO  Typing text: 
+2026-03-16 00:58:33 INFO  Typing text: 1234567890123450
+2026-03-16 00:58:33 INFO  Selecting departure city: Boston
+2026-03-16 00:58:33 INFO  Typing text: 10
+2026-03-16 00:58:33 INFO  Typing text: 2028
+2026-03-16 00:58:33 INFO  Selecting destination city: London
+2026-03-16 00:58:34 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:58:34 INFO  Clicking button
+2026-03-16 00:58:34 INFO  Clicking button
+2026-03-16 00:58:35 INFO  Fetching booking confirmation message
+2026-03-16 00:58:35 INFO  Getting text from element
+2026-03-16 00:58:35 INFO  Clicking button
+2026-03-16 00:58:38 INFO  Typing text: 
+2026-03-16 00:58:38 INFO  Typing text: 
+2026-03-16 00:58:38 INFO  Selecting departure city: Paris
+2026-03-16 00:58:38 INFO  Typing text: 
+2026-03-16 00:58:39 INFO  Selecting destination city: Rome
+2026-03-16 00:58:39 INFO  Typing text: 
+2026-03-16 00:58:39 INFO  Typing text: 
+2026-03-16 00:58:39 INFO  Clicking button
+2026-03-16 00:58:39 INFO  Typing text: 1234567890123450
+2026-03-16 00:58:39 INFO  Typing text: 10
+2026-03-16 00:58:39 INFO  Typing text: 2028
+2026-03-16 00:58:40 INFO  Typing text: Sachin Dhuriya
+2026-03-16 00:58:40 INFO  Clicking button
+2026-03-16 00:58:40 INFO  Clicking button
+2026-03-16 00:58:40 INFO  Fetching booking confirmation message
+2026-03-16 00:58:41 INFO  Typing text: Amit
+2026-03-16 00:58:41 INFO  Getting text from element
+2026-03-16 00:58:42 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:58:42 INFO  Typing text: Bhopal
+2026-03-16 00:58:42 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:58:43 INFO  Typing text: 462021
+2026-03-16 00:58:43 INFO  Typing text: 9876543210123450
+2026-03-16 00:58:44 INFO  Typing text: 9
+2026-03-16 00:58:44 INFO  Typing text: 2029
+2026-03-16 00:58:44 INFO  Typing text: Amit Kumar
+2026-03-16 00:58:44 INFO  Clicking button
+2026-03-16 00:58:45 INFO  Fetching booking confirmation message
+2026-03-16 00:58:45 INFO  Getting text from element
+2026-03-16 00:58:47 INFO  Selecting departure city: Paris
+2026-03-16 00:58:47 INFO  Selecting destination city: Rome
+2026-03-16 00:58:47 INFO  Clicking button
+2026-03-16 00:58:48 INFO  Clicking button
+2026-03-16 00:58:49 INFO  Typing text: Amit
+2026-03-16 00:58:49 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 00:58:49 INFO  Typing text: Bhopal
+2026-03-16 00:58:49 INFO  Typing text: Madhya Pradesh
+2026-03-16 00:58:50 INFO  Typing text: 462021
+2026-03-16 00:58:50 INFO  Typing text: 
+2026-03-16 00:58:50 INFO  Typing text: 
+2026-03-16 00:58:50 INFO  Typing text: 
+2026-03-16 00:58:50 INFO  Typing text: 
+2026-03-16 00:58:50 INFO  Clicking button
+2026-03-16 00:58:51 INFO  Fetching booking confirmation message
+2026-03-16 00:58:51 INFO  Getting text from element
+2026-03-16 01:07:30 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 01:07:42 INFO  Selecting departure city: Boston
+2026-03-16 01:07:42 INFO  Selecting departure city: Boston
+2026-03-16 01:07:42 INFO  Selecting destination city: London
+2026-03-16 01:07:42 INFO  Selecting destination city: London
+2026-03-16 01:07:43 INFO  Clicking button
+2026-03-16 01:07:43 INFO  Clicking button
+2026-03-16 01:07:44 INFO  Clicking button
+2026-03-16 01:07:44 INFO  Typing text: 
+2026-03-16 01:07:44 INFO  Clicking button
+2026-03-16 01:07:45 INFO  Typing text: 
+2026-03-16 01:07:45 INFO  Typing text: 
+2026-03-16 01:07:45 INFO  Typing text: 
+2026-03-16 01:07:45 INFO  Typing text: 
+2026-03-16 01:07:45 INFO  Typing text: 
+2026-03-16 01:07:46 INFO  Typing text: 1234567890123450
+2026-03-16 01:07:46 INFO  Typing text: 
+2026-03-16 01:07:46 INFO  Typing text: 
+2026-03-16 01:07:46 INFO  Typing text: 10
+2026-03-16 01:07:46 INFO  Typing text: 
+2026-03-16 01:07:46 INFO  Typing text: 2028
+2026-03-16 01:07:46 INFO  Typing text: 
+2026-03-16 01:07:46 INFO  Typing text: Sachin Dhuriya
+2026-03-16 01:07:47 INFO  Typing text: 1234567890123450
+2026-03-16 01:07:47 INFO  Clicking button
+2026-03-16 01:07:47 INFO  Typing text: 10
+2026-03-16 01:07:47 INFO  Typing text: 2028
+2026-03-16 01:07:47 INFO  Typing text: Sachin Dhuriya
+2026-03-16 01:07:47 INFO  Clicking button
+2026-03-16 01:07:48 INFO  Fetching booking confirmation message
+2026-03-16 01:07:48 INFO  Fetching booking confirmation message
+2026-03-16 01:07:48 INFO  Getting text from element
+2026-03-16 01:07:48 INFO  Getting text from element
+2026-03-16 01:07:48 ERROR Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 01:07:53 INFO  Selecting departure city: Paris
+2026-03-16 01:07:53 INFO  Selecting destination city: Rome
+2026-03-16 01:07:54 INFO  Clicking button
+2026-03-16 01:07:54 INFO  Selecting departure city: Paris
+2026-03-16 01:07:55 INFO  Selecting destination city: Rome
+2026-03-16 01:07:55 INFO  Clicking button
+2026-03-16 01:07:55 INFO  Clicking button
+2026-03-16 01:07:56 INFO  Clicking button
+2026-03-16 01:07:56 INFO  Typing text: Amit
+2026-03-16 01:07:56 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 01:07:56 INFO  Typing text: Bhopal
+2026-03-16 01:07:56 INFO  Typing text: Madhya Pradesh
+2026-03-16 01:07:56 INFO  Typing text: Amit
+2026-03-16 01:07:57 INFO  Typing text: 462021
+2026-03-16 01:07:57 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 01:07:57 INFO  Typing text: 9876543210123450
+2026-03-16 01:07:57 INFO  Typing text: Bhopal
+2026-03-16 01:07:57 INFO  Typing text: 9
+2026-03-16 01:07:57 INFO  Typing text: Madhya Pradesh
+2026-03-16 01:07:57 INFO  Typing text: 2029
+2026-03-16 01:07:58 INFO  Typing text: 462021
+2026-03-16 01:07:58 INFO  Typing text: Amit Kumar
+2026-03-16 01:07:58 INFO  Typing text: 
+2026-03-16 01:07:58 INFO  Clicking button
+2026-03-16 01:07:58 INFO  Typing text: 
+2026-03-16 01:07:58 INFO  Typing text: 
+2026-03-16 01:07:58 INFO  Typing text: 
+2026-03-16 01:07:59 INFO  Clicking button
+2026-03-16 01:07:59 INFO  Fetching booking confirmation message
+2026-03-16 01:07:59 INFO  Getting text from element
+2026-03-16 01:07:59 INFO  Fetching booking confirmation message
+2026-03-16 01:07:59 INFO  Getting text from element
+2026-03-16 01:07:59 ERROR Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 01:16:58 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 01:17:06 INFO  Selecting departure city: Boston
+2026-03-16 01:17:07 INFO  Selecting destination city: London
+2026-03-16 01:17:07 INFO  Clicking button TestNG-tests-2
+2026-03-16 01:17:08 INFO  Clicking button TestNG-tests-2
+2026-03-16 01:17:09 INFO  Typing text: 
+2026-03-16 01:17:09 INFO  Typing text: 
+2026-03-16 01:17:10 INFO  Typing text: 
+2026-03-16 01:17:10 INFO  Typing text: 
+2026-03-16 01:17:10 INFO  Typing text: 
+2026-03-16 01:17:10 INFO  Typing text: 1234567890123450
+2026-03-16 01:17:11 INFO  Typing text: 10
+2026-03-16 01:17:11 INFO  Typing text: 2028
+2026-03-16 01:17:11 INFO  Typing text: Sachin Dhuriya
+2026-03-16 01:17:11 INFO  Clicking button TestNG-tests-2
+2026-03-16 01:17:12 INFO  Selecting departure city: Boston
+2026-03-16 01:17:12 INFO  Fetching booking confirmation message
+2026-03-16 01:17:12 INFO  Getting text from element
+2026-03-16 01:17:12 INFO  Selecting destination city: London
+2026-03-16 01:17:12 ERROR Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 01:17:13 INFO  Clicking button TestNG-tests-1
+2026-03-16 01:17:14 INFO  Clicking button TestNG-tests-1
+2026-03-16 01:17:15 INFO  Typing text: 
+2026-03-16 01:17:15 INFO  Typing text: 
+2026-03-16 01:17:15 INFO  Typing text: 
+2026-03-16 01:17:16 INFO  Typing text: 
+2026-03-16 01:17:16 INFO  Typing text: 
+2026-03-16 01:17:16 INFO  Typing text: 1234567890123450
+2026-03-16 01:17:16 INFO  Typing text: 10
+2026-03-16 01:17:16 INFO  Typing text: 2028
+2026-03-16 01:17:17 INFO  Typing text: Sachin Dhuriya
+2026-03-16 01:17:17 INFO  Clicking button TestNG-tests-1
+2026-03-16 01:17:17 INFO  Fetching booking confirmation message
+2026-03-16 01:17:18 INFO  Getting text from element
+2026-03-16 01:17:18 INFO  Selecting departure city: Paris
+2026-03-16 01:17:19 INFO  Selecting destination city: Rome
+2026-03-16 01:17:20 INFO  Clicking button TestNG-tests-2
+2026-03-16 01:17:21 INFO  Selecting departure city: Paris
+2026-03-16 01:17:21 INFO  Clicking button TestNG-tests-2
+2026-03-16 01:17:21 INFO  Selecting destination city: Rome
+2026-03-16 01:17:22 INFO  Clicking button TestNG-tests-1
+2026-03-16 01:17:22 INFO  Typing text: Amit
+2026-03-16 01:17:22 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 01:17:22 INFO  Typing text: Bhopal
+2026-03-16 01:17:23 INFO  Clicking button TestNG-tests-1
+2026-03-16 01:17:23 INFO  Typing text: Madhya Pradesh
+2026-03-16 01:17:23 INFO  Typing text: 462021
+2026-03-16 01:17:23 INFO  Typing text: 
+2026-03-16 01:17:23 INFO  Typing text: Amit
+2026-03-16 01:17:23 INFO  Typing text: 
+2026-03-16 01:17:24 INFO  Typing text: Indrapuri Sector-C
+2026-03-16 01:17:24 INFO  Typing text: 
+2026-03-16 01:17:24 INFO  Typing text: Bhopal
+2026-03-16 01:17:24 INFO  Typing text: 
+2026-03-16 01:17:24 INFO  Typing text: Madhya Pradesh
+2026-03-16 01:17:24 INFO  Clicking button TestNG-tests-2
+2026-03-16 01:17:25 INFO  Typing text: 462021
+2026-03-16 01:17:25 INFO  Typing text: 9876543210123450
+2026-03-16 01:17:25 INFO  Typing text: 9
+2026-03-16 01:17:25 INFO  Fetching booking confirmation message
+2026-03-16 01:17:25 INFO  Getting text from element
+2026-03-16 01:17:25 ERROR Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 01:17:25 INFO  Typing text: 2029
+2026-03-16 01:17:26 INFO  Typing text: Amit Kumar
+2026-03-16 01:17:26 INFO  Clicking button TestNG-tests-1
+2026-03-16 01:17:27 INFO  Fetching booking confirmation message
+2026-03-16 01:17:27 INFO  Getting text from element
+2026-03-16 01:18:48 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 01:18:54 INFO  Selecting departure city: Boston
+2026-03-16 01:18:54 INFO  Selecting departure city: Boston
+2026-03-16 01:18:55 INFO  Selecting destination city: London
+2026-03-16 01:18:55 INFO  Selecting destination city: London
+2026-03-16 01:18:55 INFO  TestNG-tests-2Clicking button 
+2026-03-16 01:18:55 INFO  TestNG-tests-1Clicking button 
+2026-03-16 01:18:56 INFO  TestNG-tests-2Clicking button 
+2026-03-16 01:18:56 INFO  TestNG-tests-1Clicking button 
+2026-03-16 01:18:57 INFO  TestNG-tests-1Typing text: 
+2026-03-16 01:18:57 INFO  TestNG-tests-2Typing text: 
+2026-03-16 01:18:57 INFO  TestNG-tests-1Typing text: 
+2026-03-16 01:18:57 INFO  TestNG-tests-2Typing text: 
+2026-03-16 01:18:57 INFO  TestNG-tests-1Typing text: 
+2026-03-16 01:18:57 INFO  TestNG-tests-2Typing text: 
+2026-03-16 01:18:58 INFO  TestNG-tests-1Typing text: 
+2026-03-16 01:18:58 INFO  TestNG-tests-2Typing text: 
+2026-03-16 01:18:58 INFO  TestNG-tests-1Typing text: 
+2026-03-16 01:18:58 INFO  TestNG-tests-2Typing text: 
+2026-03-16 01:18:58 INFO  TestNG-tests-2Typing text: 1234567890123450
+2026-03-16 01:18:58 INFO  TestNG-tests-1Typing text: 1234567890123450
+2026-03-16 01:18:58 INFO  TestNG-tests-1Typing text: 10
+2026-03-16 01:18:58 INFO  TestNG-tests-2Typing text: 10
+2026-03-16 01:18:59 INFO  TestNG-tests-2Typing text: 2028
+2026-03-16 01:18:59 INFO  TestNG-tests-1Typing text: 2028
+2026-03-16 01:18:59 INFO  TestNG-tests-2Typing text: Sachin Dhuriya
+2026-03-16 01:18:59 INFO  TestNG-tests-1Typing text: Sachin Dhuriya
+2026-03-16 01:18:59 INFO  TestNG-tests-1Clicking button 
+2026-03-16 01:18:59 INFO  TestNG-tests-2Clicking button 
+2026-03-16 01:19:00 INFO  Fetching booking confirmation message
+2026-03-16 01:19:00 INFO  TestNG-tests-2Getting text from element
+2026-03-16 01:19:00 ERROR TestNG-tests-2Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 01:19:00 INFO  Fetching booking confirmation message
+2026-03-16 01:19:00 INFO  TestNG-tests-1Getting text from element
+2026-03-16 01:19:05 INFO  Selecting departure city: Paris
+2026-03-16 01:19:05 INFO  Selecting destination city: Rome
+2026-03-16 01:19:06 INFO  TestNG-tests-2Clicking button 
+2026-03-16 01:19:11 INFO  Selecting departure city: Paris
+2026-03-16 01:19:11 INFO  Selecting destination city: Rome
+2026-03-16 01:19:11 INFO  TestNG-tests-1Clicking button 
+2026-03-16 01:19:12 INFO  TestNG-tests-2Clicking button 
+2026-03-16 01:19:12 INFO  TestNG-tests-1Clicking button 
+2026-03-16 01:19:12 INFO  TestNG-tests-2Typing text: Amit
+2026-03-16 01:19:13 INFO  TestNG-tests-2Typing text: Indrapuri Sector-C
+2026-03-16 01:19:13 INFO  TestNG-tests-1Typing text: Amit
+2026-03-16 01:19:13 INFO  TestNG-tests-2Typing text: Bhopal
+2026-03-16 01:19:13 INFO  TestNG-tests-1Typing text: Indrapuri Sector-C
+2026-03-16 01:19:13 INFO  TestNG-tests-2Typing text: Madhya Pradesh
+2026-03-16 01:19:13 INFO  TestNG-tests-1Typing text: Bhopal
+2026-03-16 01:19:14 INFO  TestNG-tests-2Typing text: 462021
+2026-03-16 01:19:14 INFO  TestNG-tests-1Typing text: Madhya Pradesh
+2026-03-16 01:19:14 INFO  TestNG-tests-2Typing text: 
+2026-03-16 01:19:14 INFO  TestNG-tests-1Typing text: 462021
+2026-03-16 01:19:14 INFO  TestNG-tests-2Typing text: 
+2026-03-16 01:19:14 INFO  TestNG-tests-1Typing text: 9876543210123450
+2026-03-16 01:19:14 INFO  TestNG-tests-2Typing text: 
+2026-03-16 01:19:14 INFO  TestNG-tests-1Typing text: 9
+2026-03-16 01:19:15 INFO  TestNG-tests-2Typing text: 
+2026-03-16 01:19:15 INFO  TestNG-tests-1Typing text: 2029
+2026-03-16 01:19:15 INFO  TestNG-tests-2Clicking button 
+2026-03-16 01:19:15 INFO  TestNG-tests-1Typing text: Amit Kumar
+2026-03-16 01:19:15 INFO  TestNG-tests-1Clicking button 
+2026-03-16 01:19:16 INFO  Fetching booking confirmation message
+2026-03-16 01:19:16 INFO  TestNG-tests-2Getting text from element
+2026-03-16 01:19:16 ERROR TestNG-tests-2Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 01:19:16 INFO  Fetching booking confirmation message
+2026-03-16 01:19:16 INFO  TestNG-tests-1Getting text from element
+2026-03-16 01:20:36 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 01:20:42 INFO  Selecting departure city: Boston
+2026-03-16 01:20:43 INFO  Selecting destination city: London
+2026-03-16 01:20:43 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 01:20:44 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 01:20:45 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 01:20:45 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 01:20:45 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 01:20:45 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 01:20:45 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 01:20:45 INFO  TestNG-tests-1 Typing text: 1234567890123450
+2026-03-16 01:20:46 INFO  TestNG-tests-1 Typing text: 10
+2026-03-16 01:20:46 INFO  TestNG-tests-1 Typing text: 2028
+2026-03-16 01:20:46 INFO  TestNG-tests-1 Typing text: Sachin Dhuriya
+2026-03-16 01:20:46 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 01:20:47 INFO  Selecting departure city: Boston
+2026-03-16 01:20:47 INFO  Selecting destination city: London
+2026-03-16 01:20:47 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 01:20:48 INFO  Fetching booking confirmation message
+2026-03-16 01:20:48 INFO  TestNG-tests-1 Getting text from element
+2026-03-16 01:20:48 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 01:20:49 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 01:20:49 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 01:20:50 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 01:20:50 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 01:20:51 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 01:20:51 INFO  TestNG-tests-2 Typing text: 1234567890123450
+2026-03-16 01:20:51 INFO  TestNG-tests-2 Typing text: 10
+2026-03-16 01:20:51 INFO  TestNG-tests-2 Typing text: 2028
+2026-03-16 01:20:51 INFO  TestNG-tests-2 Typing text: Sachin Dhuriya
+2026-03-16 01:20:52 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 01:20:52 INFO  Selecting departure city: Paris
+2026-03-16 01:20:52 INFO  Fetching booking confirmation message
+2026-03-16 01:20:52 INFO  Selecting destination city: Rome
+2026-03-16 01:20:52 INFO  TestNG-tests-2 Getting text from element
+2026-03-16 01:20:52 ERROR TestNG-tests-2 Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 01:20:53 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 01:20:54 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 01:20:55 INFO  TestNG-tests-1 Typing text: Amit
+2026-03-16 01:20:55 INFO  TestNG-tests-1 Typing text: Indrapuri Sector-C
+2026-03-16 01:20:56 INFO  TestNG-tests-1 Typing text: Bhopal
+2026-03-16 01:20:56 INFO  TestNG-tests-1 Typing text: Madhya Pradesh
+2026-03-16 01:20:56 INFO  TestNG-tests-1 Typing text: 462021
+2026-03-16 01:20:56 INFO  TestNG-tests-1 Typing text: 9876543210123450
+2026-03-16 01:20:56 INFO  TestNG-tests-1 Typing text: 9
+2026-03-16 01:20:56 INFO  TestNG-tests-1 Typing text: 2029
+2026-03-16 01:20:57 INFO  TestNG-tests-1 Typing text: Amit Kumar
+2026-03-16 01:20:57 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 01:20:57 INFO  Fetching booking confirmation message
+2026-03-16 01:20:57 INFO  TestNG-tests-1 Getting text from element
+2026-03-16 01:21:01 INFO  Selecting departure city: Paris
+2026-03-16 01:21:02 INFO  Selecting destination city: Rome
+2026-03-16 01:21:02 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 01:21:03 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 01:21:04 INFO  TestNG-tests-2 Typing text: Amit
+2026-03-16 01:21:04 INFO  TestNG-tests-2 Typing text: Indrapuri Sector-C
+2026-03-16 01:21:04 INFO  TestNG-tests-2 Typing text: Bhopal
+2026-03-16 01:21:05 INFO  TestNG-tests-2 Typing text: Madhya Pradesh
+2026-03-16 01:21:05 INFO  TestNG-tests-2 Typing text: 462021
+2026-03-16 01:21:05 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 01:21:05 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 01:21:05 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 01:21:05 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 01:21:06 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 01:21:06 INFO  Fetching booking confirmation message
+2026-03-16 01:21:06 INFO  TestNG-tests-2 Getting text from element
+2026-03-16 01:21:06 ERROR TestNG-tests-2 Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 09:43:29 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 09:43:41 INFO  Selecting departure city: Boston
+2026-03-16 09:43:42 INFO  Selecting departure city: Boston
+2026-03-16 09:43:43 INFO  Selecting destination city: London
+2026-03-16 09:43:43 INFO  Selecting destination city: London
+2026-03-16 09:43:44 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:43:44 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:43:45 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:43:45 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:43:46 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:43:47 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:43:47 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:43:47 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:43:47 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:43:48 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:43:48 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:43:48 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:43:48 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:43:48 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:43:49 INFO  TestNG-tests-2 Typing text: 1234567890123450
+2026-03-16 09:43:49 INFO  TestNG-tests-1 Typing text: 1234567890123450
+2026-03-16 09:43:49 INFO  TestNG-tests-2 Typing text: 10
+2026-03-16 09:43:49 INFO  TestNG-tests-1 Typing text: 10
+2026-03-16 09:43:49 INFO  TestNG-tests-2 Typing text: 2028
+2026-03-16 09:43:50 INFO  TestNG-tests-1 Typing text: 2028
+2026-03-16 09:43:50 INFO  TestNG-tests-2 Typing text: Ansh Gupta
+2026-03-16 09:43:50 INFO  TestNG-tests-1 Typing text: Sachin Dhuriya
+2026-03-16 09:43:50 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:43:51 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:43:51 INFO  Fetching booking confirmation message
+2026-03-16 09:43:51 INFO  Fetching booking confirmation message
+2026-03-16 09:43:51 INFO  TestNG-tests-2 Getting text from element
+2026-03-16 09:43:52 INFO  TestNG-tests-1 Getting text from element
+2026-03-16 09:43:52 ERROR TestNG-tests-2 Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 09:43:57 INFO  Selecting departure city: Paris
+2026-03-16 09:43:59 INFO  Selecting destination city: Rome
+2026-03-16 09:43:59 INFO  Selecting departure city: Paris
+2026-03-16 09:43:59 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:44:00 INFO  Selecting destination city: Rome
+2026-03-16 09:44:01 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:44:01 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:44:02 INFO  TestNG-tests-2 Typing text: Prithvi
+2026-03-16 09:44:02 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:44:02 INFO  TestNG-tests-2 Typing text: Saket Nagar-9A
+2026-03-16 09:44:03 INFO  TestNG-tests-2 Typing text: Bhopal
+2026-03-16 09:44:03 INFO  TestNG-tests-1 Typing text: Amit
+2026-03-16 09:44:03 INFO  TestNG-tests-2 Typing text: Madhya Pradesh
+2026-03-16 09:44:04 INFO  TestNG-tests-2 Typing text: 462025
+2026-03-16 09:44:04 INFO  TestNG-tests-1 Typing text: Indrapuri Sector-C
+2026-03-16 09:44:04 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:44:04 INFO  TestNG-tests-1 Typing text: Bhopal
+2026-03-16 09:44:04 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:44:04 INFO  TestNG-tests-1 Typing text: Madhya Pradesh
+2026-03-16 09:44:05 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:44:05 INFO  TestNG-tests-1 Typing text: 462021
+2026-03-16 09:44:05 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:44:05 INFO  TestNG-tests-1 Typing text: 9876543210123450
+2026-03-16 09:44:06 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:44:06 INFO  TestNG-tests-1 Typing text: 9
+2026-03-16 09:44:06 INFO  TestNG-tests-1 Typing text: 2029
+2026-03-16 09:44:06 INFO  TestNG-tests-1 Typing text: Amit Kumar
+2026-03-16 09:44:06 INFO  Fetching booking confirmation message
+2026-03-16 09:44:07 INFO  TestNG-tests-2 Getting text from element
+2026-03-16 09:44:07 ERROR TestNG-tests-2 Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 09:44:07 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:44:11 INFO  Fetching booking confirmation message
+2026-03-16 09:44:11 INFO  TestNG-tests-1 Getting text from element
+2026-03-16 09:45:14 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 09:45:28 INFO  Selecting departure city: Boston
+2026-03-16 09:45:28 INFO  Selecting departure city: Boston
+2026-03-16 09:45:30 INFO  Selecting destination city: London
+2026-03-16 09:45:30 INFO  Selecting destination city: London
+2026-03-16 09:45:30 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:45:30 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:45:32 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:45:32 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:45:33 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:45:33 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:45:33 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:45:34 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:45:34 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:45:34 INFO  TestNG-tests-1 Typing text: 1234567890123450
+2026-03-16 09:45:35 INFO  TestNG-tests-1 Typing text: 10
+2026-03-16 09:45:35 INFO  TestNG-tests-1 Typing text: 2028
+2026-03-16 09:45:35 INFO  TestNG-tests-1 Typing text: Sachin Dhuriya
+2026-03-16 09:45:35 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:45:36 INFO  Fetching booking confirmation message
+2026-03-16 09:45:36 INFO  TestNG-tests-1 Getting text from element
+2026-03-16 09:45:37 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:45:38 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:45:39 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:45:40 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:45:41 INFO  Selecting departure city: Paris
+2026-03-16 09:45:42 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:45:45 INFO  TestNG-tests-2 Typing text: 1234567890123450
+2026-03-16 09:45:45 INFO  Selecting destination city: Rome
+2026-03-16 09:45:46 INFO  TestNG-tests-2 Typing text: 10
+2026-03-16 09:45:46 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:45:46 INFO  TestNG-tests-2 Typing text: 2028
+2026-03-16 09:45:47 INFO  TestNG-tests-2 Typing text: Ansh Gupta
+2026-03-16 09:45:47 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:45:48 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:45:49 INFO  Fetching booking confirmation message
+2026-03-16 09:45:49 INFO  TestNG-tests-2 Getting text from element
+2026-03-16 09:45:49 ERROR TestNG-tests-2 Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 09:45:49 INFO  TestNG-tests-1 Typing text: Amit
+2026-03-16 09:45:50 INFO  TestNG-tests-1 Typing text: Indrapuri Sector-C
+2026-03-16 09:45:51 INFO  TestNG-tests-1 Typing text: Bhopal
+2026-03-16 09:45:51 INFO  TestNG-tests-1 Typing text: Madhya Pradesh
+2026-03-16 09:45:53 INFO  TestNG-tests-1 Typing text: 462021
+2026-03-16 09:45:54 INFO  Selecting departure city: Paris
+2026-03-16 09:45:54 INFO  TestNG-tests-1 Typing text: 9876543210123450
+2026-03-16 09:45:56 INFO  TestNG-tests-1 Typing text: 9
+2026-03-16 09:45:56 INFO  Selecting destination city: Rome
+2026-03-16 09:45:56 INFO  TestNG-tests-1 Typing text: 2029
+2026-03-16 09:45:57 INFO  TestNG-tests-1 Typing text: Amit Kumar
+2026-03-16 09:45:58 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:45:58 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:45:59 INFO  Fetching booking confirmation message
+2026-03-16 09:46:00 INFO  TestNG-tests-1 Getting text from element
+2026-03-16 09:46:00 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:46:01 INFO  TestNG-tests-2 Typing text: Prithvi
+2026-03-16 09:46:02 INFO  TestNG-tests-2 Typing text: Saket Nagar-9A
+2026-03-16 09:46:02 INFO  TestNG-tests-2 Typing text: Bhopal
+2026-03-16 09:46:03 INFO  TestNG-tests-2 Typing text: Madhya Pradesh
+2026-03-16 09:46:03 INFO  TestNG-tests-2 Typing text: 462025
+2026-03-16 09:46:03 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:46:04 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:46:04 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:46:05 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:46:05 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:46:06 INFO  Fetching booking confirmation message
+2026-03-16 09:46:06 INFO  TestNG-tests-2 Getting text from element
+2026-03-16 09:46:07 ERROR TestNG-tests-2 Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 09:48:01 INFO  [TestNG] Running:
+  C:\Users\sachin\eclipse-workspace\Flight_Booking\testng.xml
+
+2026-03-16 09:48:10 INFO  TestNG-tests-2Selecting departure city: Boston
+2026-03-16 09:48:10 INFO  TestNG-tests-1Selecting departure city: Boston
+2026-03-16 09:48:10 INFO  TestNG-tests-2Selecting destination city: London
+2026-03-16 09:48:10 INFO  TestNG-tests-1Selecting destination city: London
+2026-03-16 09:48:11 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:48:11 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:48:12 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:48:12 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:48:13 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:48:13 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:48:13 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:48:14 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:48:14 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:48:14 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:48:14 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:48:14 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:48:15 INFO  TestNG-tests-1 Typing text: 
+2026-03-16 09:48:15 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:48:15 INFO  TestNG-tests-2 Typing text: 1234567890123450
+2026-03-16 09:48:15 INFO  TestNG-tests-1 Typing text: 1234567890123450
+2026-03-16 09:48:16 INFO  TestNG-tests-2 Typing text: 10
+2026-03-16 09:48:16 INFO  TestNG-tests-1 Typing text: 10
+2026-03-16 09:48:16 INFO  TestNG-tests-2 Typing text: 2028
+2026-03-16 09:48:16 INFO  TestNG-tests-1 Typing text: 2028
+2026-03-16 09:48:16 INFO  TestNG-tests-2 Typing text: Ansh Gupta
+2026-03-16 09:48:17 INFO  TestNG-tests-1 Typing text: Sachin Dhuriya
+2026-03-16 09:48:17 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:48:17 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:48:17 INFO  TestNG-tests-1Fetching booking confirmation message
+2026-03-16 09:48:18 INFO  TestNG-tests-2Fetching booking confirmation message
+2026-03-16 09:48:18 INFO  TestNG-tests-2 Getting text from element
+2026-03-16 09:48:18 INFO  TestNG-tests-1 Getting text from element
+2026-03-16 09:48:18 ERROR TestNG-tests-2 Test failed: Booking succeeded with invalid input expected [false] but found [true]
+2026-03-16 09:48:24 INFO  TestNG-tests-1Selecting departure city: Paris
+2026-03-16 09:48:24 INFO  TestNG-tests-2Selecting departure city: Paris
+2026-03-16 09:48:24 INFO  TestNG-tests-1Selecting destination city: Rome
+2026-03-16 09:48:25 INFO  TestNG-tests-2Selecting destination city: Rome
+2026-03-16 09:48:25 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:48:25 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:48:26 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:48:26 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:48:26 INFO  TestNG-tests-1 Typing text: Amit
+2026-03-16 09:48:27 INFO  TestNG-tests-1 Typing text: Indrapuri Sector-C
+2026-03-16 09:48:27 INFO  TestNG-tests-1 Typing text: Bhopal
+2026-03-16 09:48:27 INFO  TestNG-tests-2 Typing text: Prithvi
+2026-03-16 09:48:28 INFO  TestNG-tests-1 Typing text: Madhya Pradesh
+2026-03-16 09:48:28 INFO  TestNG-tests-2 Typing text: Saket Nagar-9A
+2026-03-16 09:48:28 INFO  TestNG-tests-1 Typing text: 462021
+2026-03-16 09:48:28 INFO  TestNG-tests-2 Typing text: Bhopal
+2026-03-16 09:48:28 INFO  TestNG-tests-1 Typing text: 9876543210123450
+2026-03-16 09:48:29 INFO  TestNG-tests-2 Typing text: Madhya Pradesh
+2026-03-16 09:48:29 INFO  TestNG-tests-2 Typing text: 462025
+2026-03-16 09:48:29 INFO  TestNG-tests-1 Typing text: 9
+2026-03-16 09:48:29 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:48:29 INFO  TestNG-tests-1 Typing text: 2029
+2026-03-16 09:48:30 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:48:30 INFO  TestNG-tests-1 Typing text: Amit Kumar
+2026-03-16 09:48:30 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:48:30 INFO  TestNG-tests-1 Clicking button 
+2026-03-16 09:48:30 INFO  TestNG-tests-2 Typing text: 
+2026-03-16 09:48:31 INFO  TestNG-tests-2 Clicking button 
+2026-03-16 09:48:31 INFO  TestNG-tests-1Fetching booking confirmation message
+2026-03-16 09:48:31 INFO  TestNG-tests-1 Getting text from element
+2026-03-16 09:48:32 INFO  TestNG-tests-2Fetching booking confirmation message
+2026-03-16 09:48:32 INFO  TestNG-tests-2 Getting text from element
+2026-03-16 09:48:32 ERROR TestNG-tests-2 Test failed: Booking succeeded with invalid input expected [false] but found [true]

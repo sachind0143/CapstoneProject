@@ -8,9 +8,15 @@
     <test name="FlightBookingTest">
 
         <classes>
-            <class name="com.flightbooking.automation.tests.FlightBookingTest"/>
+            <class name="com.flightbooking.automation.tests.FlightBookingPositiveTest"/>
         </classes>
 
+    </test>
+    <test name="FlightBookingNegativeTest">
+    	<classes>
+    		<class name="com.flightbooking.automation.tests.FlightBookingNegativeTest">
+    			</class>
+    	</classes>
     </test>
 
 </suite>

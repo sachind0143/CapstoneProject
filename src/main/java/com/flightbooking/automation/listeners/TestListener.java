@@ -7,6 +7,7 @@ import org.testng.ITestResult;
 import com.flightbooking.automation.base.DriverManager;
 import com.flightbooking.automation.listeners.TestListener;
 import com.flightbooking.automation.reports.*;
+import com.flightbooking.automation.utils.LoggerUtils;
 import com.flightbooking.automation.utils.ScreenshotUtils;
 import com.aventstack.extentreports.ExtentReports;
 
@@ -34,16 +35,20 @@ public class TestListener implements ITestListener {
                 .addScreenCaptureFromPath(screenshotPath);
     }
 
+
     @Override
     public void onTestFailure(ITestResult result) {
 
-        ExtentTestManager.getTest().fail(result.getThrowable());
-
+        String testName = result.getMethod().getMethodName();
+        LoggerUtils.error(Thread.currentThread().getName()+" Test failed: "
+                + result.getThrowable().getMessage());
         String screenshotPath =
                 ScreenshotUtils.captureScreenshot(
                         DriverManager.getDriver(),
-                        result.getMethod().getMethodName()
-                );
+                        testName);
+
+        ExtentTestManager.getTest()
+                .fail("Test Failed: " + result.getThrowable().getMessage());
 
         try {
 
@@ -52,7 +57,8 @@ public class TestListener implements ITestListener {
 
         } catch (Exception e) {
 
-            e.printStackTrace();
+            ExtentTestManager.getTest()
+                    .fail("Screenshot could not be attached");
         }
     }
 //    Information of entire test run-ITestContext

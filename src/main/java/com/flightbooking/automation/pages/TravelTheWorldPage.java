@@ -19,7 +19,7 @@ public class TravelTheWorldPage extends BasePage {
 
     public void selectDepartureCity(String city) {
 
-        LoggerUtils.info("Selecting departure city: " + city);
+        LoggerUtils.info(Thread.currentThread().getName()+"Selecting departure city: " + city);
 
         Select select = new Select(departure);
 
@@ -28,7 +28,7 @@ public class TravelTheWorldPage extends BasePage {
 
     public void selectDestinationCity(String city) {
 
-        LoggerUtils.info("Selecting destination city: " + city);
+        LoggerUtils.info(Thread.currentThread().getName()+"Selecting destination city: " + city);
 
         Select select = new Select(destination);
 

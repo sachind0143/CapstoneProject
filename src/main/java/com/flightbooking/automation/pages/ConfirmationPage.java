@@ -12,14 +12,14 @@ public class ConfirmationPage extends BasePage {
 
     public String getConfirmationMessage() {
 
-        LoggerUtils.info("Fetching booking confirmation message");
+        LoggerUtils.info(Thread.currentThread().getName()+"Fetching booking confirmation message");
 
         return getText(confirmationMessage);
     }
 
     public boolean verifyBookingSuccess() {
 
-        LoggerUtils.info("Verifying booking confirmation");
+        LoggerUtils.info(Thread.currentThread().getName()+"Verifying booking confirmation");
 
         return isDisplayed(confirmationMessage);
     }
